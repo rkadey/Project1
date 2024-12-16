@@ -1,2 +1,2 @@
 # test
-this test case
+This test case A TEST CASE FOR A rEADmE.
